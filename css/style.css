@@ -1,0 +1,68 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
+
+.header-bg-color{
+    background-color: #264653;
+}
+.button-color{
+    background-color: #E76F51;
+}
+.btn-font{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.nav-item>a:hover{
+    color: #E76F51;
+}
+.header-discription{
+    font-family: Poppins;
+    font-weight: 300;
+    color: #E0E0E0;
+}
+.header-title{
+    font-family: Poppins;
+    font-weight: 600;
+
+    color: #FFFFFF;
+}
+.logo{
+    width: 3rem;
+}
+.featured-bikes-title,.latest-news-title{
+    font-family: Poppins;
+    font-weight: 600;
+    color: #000000;
+}
+.featured-bikes-sub-title{
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #E76F51;
+}
+.grayscale{
+    filter: grayscale(100%)
+}
+.org-color{
+    color: #E76F51;
+}
+.star i{
+    color: #E77C40;
+}
+.name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: .8rem;
+    color: #23A6F0;
+}
+footer p{
+    color: #FFFFFF;
+}
+.app{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 1.5rem;
+    color: #E76F51;
+}
